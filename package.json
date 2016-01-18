@@ -16,18 +16,19 @@
     "url": "git://github.com/swayf/mongoose-path-tree.git"
   },
   "main": "index.js",
-  "version": "1.3.5",
+  "version": "1.4.0",
   "engine": "node >= 0.8.0",
   "dependencies": {
-    "mongoose": "3.8.x",
-    "stream-worker": "0.x.x"
+    "mongoose": "4.3.5",
+    "stream-worker": "0.x.x",
+    "kerberos": "0.0.17"
   },
   "devDependencies": {
-    "async": "0.x.x",
-    "should": "1.x.x",
-    "lodash": "2.x.x",
-    "mocha": "1.x.x",
-    "shortid": "2.0.0"
+    "async": "1.5.x",
+    "should": "8.1.x",
+    "lodash": "4.0.x",
+    "mocha": "2.3.x",
+    "shortid": "2.2.x"
   },
   "directories": {
     "test": "test"
