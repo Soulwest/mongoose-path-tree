@@ -21,7 +21,7 @@
   "dependencies": {
     "mongoose": "4.3.x",
     "stream-worker": "0.x.x",
-    "kerberos": "0.0.17"
+    "kerberos": "0.0.21"
   },
   "devDependencies": {
     "async": "1.5.x",
